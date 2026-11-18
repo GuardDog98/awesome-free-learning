@@ -21,7 +21,9 @@ Every resource here is free to use. No paywalled courses, no "free trial" tricks
 - [Contributing](#contributing)
 
 ## Programming
-
+<div align="center">
+  <img src="assets/file_00000000b28081f4bca4732435d1f0dc.gif" alt="Free Learning" width="360">
+</div>
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Beginner-friendly book on using Python for everyday tasks.
 - [Eloquent JavaScript](https://eloquentjavascript.net) - A modern introduction to JavaScript, programming and the web.
 - [Exercism](https://exercism.org) - Coding practice in 70+ languages with free mentoring.
