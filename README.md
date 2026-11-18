@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/file_00000000b28081f4bca4732435d1f0dc.gif" alt="Free Learning" width="360">
+</div>
+
 # awesome-free-learning
 A curated list of genuinely free learning resources
 <div align="center">
