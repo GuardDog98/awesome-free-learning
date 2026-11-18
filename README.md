@@ -14,6 +14,10 @@ A curated list of genuinely free learning resources
 
 Every resource here is free to use. No paywalled courses, no "free trial" tricks.
 
+<div align="center">
+  <img src="assets/1794992820749.jpg" alt="A bookshelf with an Android robot in the middle" width="100%">
+</div>
+
 ## Contents
 
 - [Programming](#programming)
